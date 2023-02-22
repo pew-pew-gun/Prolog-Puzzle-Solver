@@ -1,4 +1,4 @@
-/*  Author: Bi Ho Shin
+/*  Author: Biho Shin
     Email: redream2010@hotmail.com
 
     proj1.pl contains predicate 'puzzle_solution(Puzzle)' that takes a maths puzzle 
