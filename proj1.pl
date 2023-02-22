@@ -1,6 +1,5 @@
 /*  Author: Bi Ho Shin
-    Student ID: 1086159
-    Email: bihos@student.unimelb.edu.au
+    Email: redream2010@hotmail.com
 
     proj1.pl contains predicate 'puzzle_solution(Puzzle)' that takes a maths puzzle 
     and produces the solution via propagation and labelling using the CLP(FD) library. 
